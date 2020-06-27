@@ -6,7 +6,8 @@
 
 ## Projects, Stack & Tools Used
 
-
+1. HTML5/CSS3 Grid
+2. Bootstrap #v
 
 
 ### Stacks & Tools 
