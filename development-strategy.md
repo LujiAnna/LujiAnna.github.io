@@ -25,41 +25,9 @@
 5. User story 1
 6. User story 2
 
-
 --------
-PROJECT OF THE WEEK DIMENSIONS
-
-1282 × 807
-
-------
-
-
-
-### Version 1 - June
-
-s0_navigation
-s1_header
-s2_portfolio
-s3_project_of_the_week
-
-### Version 2 - July
-
-s4_about
-s5_html5/css3
-s6_javascript
-s7_others
-
-### Version 3 - August
-
-s8_contact
-s9_footer
-s10_copyright
-
-
--------
-
-
 
 * Week0: [Git](https://github.com/LujiAnna/LujiAnna)
 * Week1: [Github](https://lujianna.github.io/LujiAnna/)
 * Week2: ![Wireframe](https://user-images.githubusercontent.com/45841105/85904154-54ca1380-b808-11ea-9daf-ce5cc44b0a75.png)
+* Week3: [Project Board](https://github.com/LujiAnna/LujiAnna.github.io/projects/1)
