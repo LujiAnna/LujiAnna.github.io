@@ -1,3 +1,3 @@
-V1: Desktop Version
+V1: Desktop, Tablet & Phone Version
 
-![Wireframe Desktop Version I](https://user-images.githubusercontent.com/45841105/85904154-54ca1380-b808-11ea-9daf-ce5cc44b0a75.png)
+![wireframe](https://user-images.githubusercontent.com/45841105/85931033-67545380-b8c1-11ea-9d4e-4e4707f63da6.png)

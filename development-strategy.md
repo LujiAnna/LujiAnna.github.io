@@ -7,7 +7,7 @@
 2. Setting Up Our Project
 
 - [x] Write a [README](./README.md)
-- [x] Prepare [contents & design](./content.txt)
+- [ ] Prepare [contents & design](./content.txt)
 - [x] Make a [wireframe](./wireframe.md)
 
 3. Content

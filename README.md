@@ -2,17 +2,11 @@
 
 > Profile in a responsive web page using bootstrap and css3 grid
 
-# Homepage 
-
-## Projects, Stack & Tools Used
+### Stack & Tools Used
 
 1. HTML5/CSS3 Grid
-2. Bootstrap #v
-
-
-### Stacks & Tools 
-
-Bootstrap & CSS3 Grid
+2. [Bootstrap v4](getbootstrap.com) 
+3. [Prototype](whimsical.com)
 
 ### Contributing
 
