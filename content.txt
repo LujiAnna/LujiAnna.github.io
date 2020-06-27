@@ -1,0 +1,121 @@
+## Project Modules
+
+01-Project Overview
+02-Setting Up Our Project
+03-Adding the Unstylized Content: form, table, multimedia
+04-Using Bootstrap (version ...) Styles
+05-Using CSS Grid for Page Layout
+06-Using Custom CSS
+07-Accessibility
+08-Cross devices: Media queries
+09-Cross Browser Testing
+10-Final Touchings
+11-Validation
+12-Javascript: api
+13-Node
+
+
+---google fonts
+
+
+<link href="http://fonts.googleapis.com/css?family=Princess+Sofia" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+
+
+-------
+
+font awesome version 5
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+
+<i class="fab fa-facebook"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-linkedin-in"></i>
+<i class="fab fa-instagram"></i>
+
+
+--------
+PROJECT OF THE WEEK DIMENSIONS
+
+1282 × 807
+
+
+
+------
+- [ ] Add Primary Color
+- [ ] Add Secondary
+  
+
+PRIMARY COLOR: 
+
+SECONDARY COLOR: 
+
+BACKGROUND COLORS
+
+s1 - header background color - 1e1109
+s2 - html5/css3, javascript and others -  fefaf7
+s3 - painting of the week background color - 26221f
+s4 - about background color - f0e9d7
+s5 - html5/css3 background color - fefaf7
+s6 - javascript background color - 414046
+s7 - others background color - f0e9d7
+s8 - contact background color -  fefaf7
+s9 - footer background color - 414046
+
+
+-----
+FONT-COLOR: #e5904d !important;
+
+-----
+
+SECTION NAMES
+
+s0_navigation
+s1_header
+s2_portfolio
+s3_project_of_the_week
+s4_about
+s5_html5/css3
+s6_javascript
+s7_others
+s8_contact
+s9_footer
+s10_copyright
+
+-------
+
+TITLE TAG - Anna's projects' portfolio
+
+-------
+
+HEADER TEXT
+
+Anna Ikoki
+Front End Developer, Freelancer & Volunteer Mentor
+
+-------
+-------
+
+### Version 1 - June
+
+s0_navigation
+s1_header
+s2_portfolio
+s3_project_of_the_week
+
+### Version 2 - July
+
+s4_about
+s5_html5/css3
+s6_javascript
+s7_others
+
+### Version 3 - August
+
+s8_contact
+s9_footer
+s10_copyright
+
+
+-------
