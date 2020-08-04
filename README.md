@@ -7,8 +7,9 @@
 1. HTML5/[CSS3 Grid Module](https://www.w3.org/TR/css-grid/) for responsive layout design.
 And [CSS Flex](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout) for linear (row or column) arrangement. 
 2. [Bootstrap v4](getbootstrap.com) for prototype & design
-3. [Wireframe](whimsical.com)
-4. [Vector graphics](fontawesome.com)
+3. [Emmet](https://emmet.io) for HTML & Bootstrap 4 typing
+4. [Wireframe](whimsical.com)
+5. [Vector graphics](fontawesome.com)
 
 ### Contributing
 
@@ -22,7 +23,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ### Contact
 
-Anna Ikoki @IkokiAnna - [email](ikokianna@gmail.com)
+Anna Ikoki @IkokiAnna - ikokianna@gmail.com
 
 [Projects](https://github.com/LujiAnna/hack-my-future)
 
