@@ -4,9 +4,11 @@
 
 ### Stack & Tools Used
 
-1. HTML5/CSS3 Grid
-2. [Bootstrap v4](getbootstrap.com) 
-3. [Prototype](whimsical.com)
+1. HTML5/[CSS3 Grid Module](https://www.w3.org/TR/css-grid/) for responsive layout design.
+And [CSS Flex](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout) for linear (row or column) arrangement. 
+2. [Bootstrap v4](getbootstrap.com) for prototype & design
+3. [Wireframe](whimsical.com)
+4. [Vector graphics](fontawesome.com)
 
 ### Contributing
 
@@ -18,15 +20,16 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
+### Contact
+
+Anna Ikoki @IkokiAnna - [email](ikokianna@gmail.com)
+
+[Projects](https://github.com/LujiAnna/hack-my-future)
+
 ### License
 
 Distributed under the MIT License. See [Licence](LICENCE.txt) for more information.
 
-### Contact
-
-Anna Ikoki - @IkokiAnna - ikokianna@gmail.com
-
-Project Link: https://github.com/LujiAnna/LujiAnna.github.io
-
 ### Inspiration
 
+[Mario Macari](http://mariomacari.com/)

@@ -75,13 +75,32 @@ s0_navigation
 s1_header
 s2_portfolio
 s3_project_of_the_week
-s4_about
+s4_about : This
 s5_html5/css3
 s6_javascript
 s7_others
 s8_contact
 s9_footer
 s10_copyright
+
+-------
+
+Bootstrap 4 Breakpoints
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
 
 -------
 
@@ -95,23 +114,54 @@ Anna Ikoki
 Front End Developer, Freelancer & Volunteer Mentor
 
 -------
+
+
+S2 TRIO
+
+HTML5
+Semantics. Accessibility.
+
+CSS3
+Flexbox, Grid, responsive website.. 
+Frameworks I have used Bootstrap.
+
+Javascript
+I am currently learning javascript at HYF
+
 -------
 
-### Version 1 - June
+
+S3 PROJECT OF THE WEEK
+
+Highlighted Project
+Amazing people I have collaborated with (codeit 2020)
+
+-------
+
+S4 ABOUT
+
+About
+Anna Ikoki is a front-end developer, currently in Belgium.
+Google Developer Scholarship Africa Volunteer Mentor for Mobile Web Track.
+Writing 
+
+-------
+
+### Version 1 - August
 
 s0_navigation
 s1_header
 s2_portfolio
 s3_project_of_the_week
 
-### Version 2 - July
+### Version 2 - September
 
 s4_about
 s5_html5/css3
 s6_javascript
 s7_others
 
-### Version 3 - August
+### Version 3 - October
 
 s8_contact
 s9_footer
