@@ -12,21 +12,30 @@
 
 3. Content
 
-- [ ] Add user stories
-- [ ] Make todos and convert them to issues
-- [ ] Make files and boiler plates for html, css, bootstrap and images and link them
+- [x] Add user stories
+- [x] Make todos and convert them to issues
+- [x] Make files and boiler plates for html, css, bootstrap and images and link them
   
 4. General
 
-- [ ] Use [separate branches](https://github.com/LujiAnna/LujiAnna.github.io/branches) to add unstylized user content, images, fonts, icons, images and colors
+- [x] Use [separate branches](https://github.com/LujiAnna/LujiAnna.github.io/branches) to add unstylized user content, images, fonts, icons, images and colors
 - [ ] Style the content 
 - [ ] Make page responsive 
 - [ ] Accessibility
 - [ ] Cross browser testing
 
-5. User story 1 : ABOUT
+5. User Stories
 
-* As a user I should see an About section which includes my short bio with a title on the left and a self-portrait on the right for full size (desktop) and laptop size. 
+i. User story 1 : As a user I should see content when I click page link
+- [x] Create 'markup' branch
+- [x] make index.html boiler
+- [x] Boilerplate set-up & links to cdn bootstrap: or use starter template & test
+- [x] Prepare site texts and add title and header
+- [x] Create a PR
+
+ii. User story 2 : As a user I should see main color theme of the page
+
+iii. User story 3 :  As a user I should see an About section which includes my short bio with a title on the left and a self-portrait on the right for full size (desktop) and laptop size. 
 The positions should shift right-to-left for the tablet-size, and title of section should be aligned with portrait on the left.
 Phone screen should have portrait on top of the bio & title
 
@@ -42,5 +51,6 @@ Phone screen should have portrait on top of the bio & title
 ### Project Set Up
 
 * Week4: [User Stories & Issues](https://github.com/LujiAnna/LujiAnna.github.io/issues)
-* Week5: Assets preparation: portrait & about images,  projects images for the trio, image for highlighted project. Prepare google fonts and graphics.
+* Week5: Design: [Typography](fonts.google.com), [Graphics](fontawesome.com) & [Color]()
+* Week 6: Assets preparation: portrait & about images,  projects images for the trio, image for highlighted project. Prepare google fonts and graphics.
 
