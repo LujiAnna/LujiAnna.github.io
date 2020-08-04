@@ -7,7 +7,7 @@
 2. Setting Up Our Project
 
 - [x] Write a [README](./README.md)
-- [ ] Prepare [contents & design](./content.txt)
+- [x] Prepare [contents & design](./content.txt)
 - [x] Make a [wireframe](./wireframe.md)
 
 3. Content
@@ -18,16 +18,29 @@
   
 4. General
 
-- [ ] Use separate branch 
-- [ ] Add unstylized user content, images, fonts, icons, images and colors
-- [ ] Style the content
+- [ ] Use [separate branches](https://github.com/LujiAnna/LujiAnna.github.io/branches) to add unstylized user content, images, fonts, icons, images and colors
+- [ ] Style the content 
+- [ ] Make page responsive 
+- [ ] Accessibility
+- [ ] Cross browser testing
 
-5. User story 1
-6. User story 2
+5. User story 1 : ABOUT
+
+* As a user I should see an About section which includes my short bio with a title on the left and a self-portrait on the right for full size (desktop) and laptop size. 
+The positions should shift right-to-left for the tablet-size, and title of section should be aligned with portrait on the left.
+Phone screen should have portrait on top of the bio & title
 
 --------
+
+### Project Planning
 
 * Week0: [Git](https://github.com/LujiAnna/LujiAnna)
 * Week1: [Github](https://lujianna.github.io/LujiAnna/)
 * Week2: ![Wireframe](https://user-images.githubusercontent.com/45841105/85904154-54ca1380-b808-11ea-9daf-ce5cc44b0a75.png)
 * Week3: [Project Board](https://github.com/LujiAnna/LujiAnna.github.io/projects/1)
+
+### Project Set Up
+
+* Week4: [User Stories & Issues](https://github.com/LujiAnna/LujiAnna.github.io/issues)
+* Week5: Assets preparation: portrait & about images,  projects images for the trio, image for highlighted project. Prepare google fonts and graphics.
+
