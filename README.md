@@ -5,12 +5,13 @@ It is a responsive web page using bootstrap and css3 grid.
 
 ### Stack & Tools Used
 
-1. HTML5, [CSS3 Grid Module](https://www.w3.org/TR/css-grid/) for responsive layout design and [CSS Flex](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout) for linear (row or column) arrangement. 
-2. [Bootstrap v4](getbootstrap.com) for prototype & design
-3. [Emmet](https://emmet.io) for HTML & Bootstrap 4 typing
-4. [Wireframe](whimsical.com)
-5. [Vector graphics](fontawesome.com)
-6. [Typography](https://fonts.google.com)
+1. HTML5
+2. [CSS3 Grid Module](https://www.w3.org/TR/css-grid/) for responsive layout design and [CSS Flex](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout) for linear (row or column) arrangement. 
+3. [Bootstrap v4](getbootstrap.com) for prototype & design
+4. [Emmet](https://emmet.io) for HTML & Bootstrap 4 typing
+5. [Wireframe](whimsical.com)
+6. [Vector graphics](fontawesome.com)
+7. [Typography](https://fonts.google.com)
 
 ## Development Schedule
 
