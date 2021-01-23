@@ -33,3 +33,9 @@ Distributed under the MIT License. See [Licence](LICENCE.txt) for more informati
 ### Inspiration
 
 [Mario Macari](http://mariomacari.com/)
+
+### Resources
+
+[Emoji](https://emojipedia.org/)
+[Color](https://encycolorpedia.com/)
+
