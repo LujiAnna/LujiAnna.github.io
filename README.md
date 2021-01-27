@@ -38,4 +38,5 @@ Distributed under the MIT License. See [Licence](LICENCE.txt) for more informati
 
 [Emoji](https://emojipedia.org/)
 [Color](https://encycolorpedia.com/)
+[Photos](https://stockup.sitebuilderreport.com)
 
