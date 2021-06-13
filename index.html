@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    
     <!-- icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css" integrity="sha512-BnbUDfEUfV0Slx6TunuB042k9tuKe3xrD6q4mg5Ed72LTgzDIcLPxg6yI2gcMFRyomt+yJJxE+zJwNmxki6/RA==" crossorigin="anonymous" />
 
@@ -18,37 +18,37 @@
 
     <!-- SEO -->
     <meta name="description" content="Anna is a web developer. If you want to have a professional website or need to create a new website or maintain an existing one, contact Anna.">
- 
+
     <title>Anna Ikoki | Web developer | Webdesigner</title>
 
     <style>
         body {
-            background: url('love-min.jpg');
+            background: linear-gradient(to bottom, rgba(44, 44, 42, 0.5), rgba(76, 76, 117, 0.5)),url('code.jpg');
             background-size: cover;
             background-position: center;
             /* parallax in css */
             background-attachment: fixed;
         }
-        
+
         a.left {
             text-align: left;
         }
-        
+
         a span.right {
             float: right;
             color: #000;
         }
-        
+
         body {
             max-width: 800px;
         }
-        
+
         h1 {
             font-size: 170%;
             display: inline;
             margin-left: 10px;
         }
-        
+
         /* .card-title {
             letter-spacing: 1px;
             font-weight: 500;
@@ -95,69 +95,75 @@ p:first-child{
                 <p class="card-text">🕸️ DevOps: Testing | Git | <a class="link-dark" href="https://github.com/LujiAnna" target="_blank" title="Check my github"> Github </a></p>
                 <p class="card-text">🧧 HireMe:<a class="link-dark" href="https://www.linkedin.com/in/annaikoki/" target="_blank" title="Find me on linkedin"> Linkedin</a> |
                     <a class="link-dark" href="tel:+32-487-412-183" title="Call me"> 📱 Phone
-                    </a> | <a class="link-dark" href="mailto:ikokianna@gmail.com" target="_blank" title="Write me an email"> 📧 Email
+                    </a> | <a class="link-dark" href="mailto:hello@annaikoki.com" target="_blank" title="Write me an email"> 📧 Email
                     </a> </p>
                 <p class="card-text">🗺️ FindMe: Remote | 📍 <a class="link-dark" href="https://www.google.com/maps/place/Antwerp/@51.2606742,4.2044757,10.88z/data=!4m5!3m4!1s0x47c3f68ebfc3887d:0x3eaf448482a88ab8!8m2!3d51.2194475!4d4.4024643" target="_blank" title="My location"> Belgium</a></p>
-                    
-            <nav>
-                        <ul class="nav nav-tabs nav-justified ">
+
+<!-- NAV TITLES -->
+                  <nav>
+                        <ul class="nav nav-tabs nav-justified" >
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">React</a>
+                                <a class="nav-link active" data-bs-toggle="collapse" href="#collapseArticle" role="button" aria-expanded="true" aria-controls="collapseArticle">Articles</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="https://ikokianna.medium.com/10-steps-to-move-from-beginner-to-an-intermediate-coder-7aa4dda7b98c">Javascript</a>
+                              <a class="nav-link" data-bs-toggle="collapse" href="#collapsePortfolio" role="button" aria-expanded="false" aria-controls="collapsePortfolio">Portfolio</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link " href="https://annaikoki.netlify.app">Vue</a>
+                              <a class="nav-link" data-bs-toggle="collapse" href="#collapseTeam" role="button" aria-expanded="false" aria-controls="collapseTeam">Team</a>
                             </li>
                         </ul>
                     </nav>
 
-                    <div class=" d-grid gap-2 mt-5">
+<!-- NAV DROPDOWNS -->
+                    <!-- ARTICLES -->
+                    <div class="collapse show" id="collapseArticle">
+<!-- d-grid gap-2 mt-5 in div class -->
+<div class="card card-body d-grid gap-2 mt-5">
+
                         <!--                    <h5 class="card-title ">Products</h5>-->
                         <!-- <h5 class="card-title ">Projects</h5> -->
                     <!--                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://annaikoki.netlify.app/">Hire Me as a Freelancer <span class="right"> <i class="fas fa-share-square"></i></span></a>-->
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://lujianna.github.io/tic-tac-toe-js/">Play Tic Tac Toe | Html5, Javascript <span class="right"> <i class="fas fa-pager"></i></span></a>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://breakinbad.netlify.app/">Multilingual Site | Javascript, API<span class="right"> <i class="fas fa-language"></i></span></a>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://voxbox.herokuapp.com">Volunteer Platform | React.js, Node.js <span class="right"> <i class="fas fa-hands-helping"></i></span></a>
+                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://dev.to/lujianna/10-most-used-html-symbol-14o6">HTML Symbols | Html article<span class="right"> <i class="fab fa-html5"></i></span></a>
+                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://ikokianna.medium.com/how-to-convert-a-string-type-into-a-number-type-using-unary-operators-828e8da6c332">String to number in Unary | Js Article<span class="right"> <i class="fab fa-js-square"></i></span></a>
                     <!-- <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://webedu.netlify.app">Get a School Web Design <span class="right"> <i class="fas fa-university"></i></span></a> -->
-                </div>
+              </div>
+            </div>
 
-                <!--
-                <div class="d-grid gap-2 mt-5">
-                    <h5 class="card-title">Articles</h5>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://voxbox.herokuapp.com">Volunteer Platform | React.js, Node.js <span class="right"> <i class="fas fa-hands-helping"></i></span></a>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://www.amazon.com/dp/B074Y4G4PN/ref=redir_mobile_desktop?_encoding=UTF8&dpID=51%2BUpPIG9lL&dpPl=1&keywords=anna%20emanuel&pi=AC_SX236_SY340_QL65&qid=1504170499&ref=plSrch&ref_=mp_s_a_1_3&sr=8-3">Buy My Pasta Book on Amazon<span class="right"> <i class="fas fa-book"></i></span></a>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://dev.to/lujianna/unary-operators-in-javascript-objects-2kh7">Article on Unary Operators in JS Objects <span class="right"> <i class="fas fa-newspaper"></i></span></a>
-                </div>
--->
+                 <!-- PORTFOLIO -->
+                 <div class="collapse" id="collapsePortfolio">
+                   <div class="card card-body d-grid gap-2 mt-5">
 
-           <!--
-                <div class="d-grid gap-2 mt-5">
-                    <h5 class="card-title">Services</h5>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://voxbox.herokuapp.com">Volunteer Platform | React.js, Node.js <span class="right"> <i class="fas fa-hands-helping"></i></span></a>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://www.amazon.com/dp/B074Y4G4PN/ref=redir_mobile_desktop?_encoding=UTF8&dpID=51%2BUpPIG9lL&dpPl=1&keywords=anna%20emanuel&pi=AC_SX236_SY340_QL65&qid=1504170499&ref=plSrch&ref_=mp_s_a_1_3&sr=8-3">Buy My Pasta Book on Amazon<span class="right"> <i class="fas fa-book"></i></span></a>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://dev.to/lujianna/unary-operators-in-javascript-objects-2kh7">Article on Unary Operators in JS Objects <span class="right"> <i class="fas fa-newspaper"></i></span></a>
-                </div>
--->
+                    <!--                    <h5 class="card-title ">Products</h5>-->
+                    <!-- <h5 class="card-title ">Projects</h5> -->
+                    <h5 class="card-title ">Portfolio</h5>
+                <!--                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://annaikoki.netlify.app/">Hire Me as a Freelancer <span class="right"> <i class="fas fa-share-square"></i></span></a>-->
+                <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://bitgallery.netlify.app">BitGallery | HTML5 <span class="right"> <i class="fab fa-bitcoin"></i></span></a>
+                <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://budget-st.netlify.app">e-Store | Bootstrap <span class="right"> <i class="fas fa-store"></i></span></a>
+                <!-- <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://webedu.netlify.app">Get a School Web Design <span class="right"> <i class="fas fa-university"></i></span></a> -->
+          </div>
+        </div>
 
-                <!--
-                <div class="d-grid gap-2 mt-5">
-                    <h5 class="card-title">About</h5>
+             <!-- TEAM -->
+             <div class="collapse" id="collapseTeam">
+               <div class="card card-body d-grid gap-2 mt-5">
 
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://github.com/LujiAnna">Github <span class="right"> <i class="fab fa-github-square"></i> </span></a>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://www.linkedin.com/in/annaikoki/">Linkedin  <span class="right"> <i class="fab fa-linkedin"></i></span></a>
-                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://twitter.com/IkokiAnna">Twitter <span class="right"> <i class="fab fa-twitter-square"></i></span></a>
--->
-                <!-- <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://www.instagram.com/anna_twentytwenty/">Instagram <span class="right"> <i class="fab fa-instagram-square"></i></span></a> -->
-                <!-- <a class="btn btn-lg btn-block btn-outline-secondary" href="mailto:ikokianna@gmail.com" target="_blank" title="Write me an email">Email 📮 </a> -->
+                <!--                    <h5 class="card-title ">Products</h5>-->
+                <!-- <h5 class="card-title ">Projects</h5> -->
+                <h5 class="card-title ">Team</h5>
+            <!--                    <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://annaikoki.netlify.app/">Hire Me as a Freelancer <span class="right"> <i class="fas fa-share-square"></i></span></a>-->
+            <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://syntaxv8.github.io/the-startup/">Recipe Collection | CSS3 <span class="right"> <i class="fas fa-ice-cream"></i></span></a>
+            <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://voxbox.herokuapp.com">Volunteer Platform | React.js <span class="right"> <i class="fas fa-hands-helping"></i></span></a>
+            <!-- <a class="btn btn-lg btn-block btn-outline-secondary left" href="https://webedu.netlify.app">Get a School Web Design <span class="right"> <i class="fas fa-university"></i></span></a> -->
+      </div>
+    </div>
 
             </div>
 
         </div>
     </div>
 
-
-</body>
+    <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+  </body>
 
 </html>
