@@ -15,6 +15,7 @@ Send me an email
 See my contact info
 
 i. User story 1 : As a user I should see content when I click page link
+
 - [x] Create 'markup' branch
 - [x] make index.html boiler
 - [x] Boilerplate set-up & links to cdn bootstrap: or use starter template & test
@@ -23,6 +24,16 @@ i. User story 1 : As a user I should see content when I click page link
 
 ii. User story 2 : As a user I should see main color theme of the page
 
-iii. User story 3 :  As a user I should see an About section which includes my short bio with a title on the left and a self-portrait on the right for full size (desktop) and laptop size. 
+iii. User story 3 : As a user I should see an About section which includes my short bio with a title on the left and a self-portrait on the right for full size (desktop) and laptop size.
 The positions should shift right-to-left for the tablet-size, and title of section should be aligned with portrait on the left.
 Phone screen should have portrait on top of the bio & title
+
+iii. Improvements
+
+1. Make items collapse automatically when another is clicked to show.
+   Potential challenge: bootstrap collapse does not work with dynamic content #2274
+   [Issue 2274](https://github.com/twbs/bootstrap/issues/2274)
+2. Structure think on media queries
+3. Dark/Light Theme
+4. Make Interfaces page, call it 'pages' not cards. Potential to sell themes. Inspiration from google page, and envato themes.
+5. Add a php blog page to write articles in my own page
