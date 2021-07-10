@@ -36,4 +36,6 @@ iii. Improvements
 2. Structure think on media queries
 3. Dark/Light Theme
 4. Make Interfaces page, call it 'pages' not cards. Potential to sell themes. Inspiration from google page, and envato themes.
-5. Add a php blog page to write articles in my own page
+5. Add a php blog page to write articles in my own page similar to plural sight guides with language icons. Should be 2 pages, one with all the articles, and on click to another page to read the clickable one. Pay attention to details. header pix, name, title, date, category, Main: cards format, copy pastable code, scrollable content, highlight fixed left nav. If article was in table-one card is enough
+6. Creat games tabs, and remove articles in its place, and include link to blog. In portfolio add ariana, recipe and voxbox. In team add .....???
+7. Idea: write on errors: al steps you took to debug everything with links to github issues i agreed with, or asked, overstock my answer, etc
